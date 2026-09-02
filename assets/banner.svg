@@ -1,0 +1,40 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bernardo Kraczkowski, Front-end Developer</title>
+  <desc id="desc">Banner escuro com o nome Bernardo Kraczkowski, sua especialidade e tecnologias.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061B25" />
+      <stop offset="0.52" stop-color="#0D1627" />
+      <stop offset="1" stop-color="#222044" />
+    </linearGradient>
+    <linearGradient id="cyanGlow" x1="0" y1="0" x2="500" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0BB7D1" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#0BB7D1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="purpleGlow" x1="1200" y1="0" x2="700" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B3FA8" stop-opacity="0.2" />
+      <stop offset="1" stop-color="#5B3FA8" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#9EB8C6" stroke-opacity="0.06" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#background)" />
+  <rect width="600" height="300" rx="22" fill="url(#cyanGlow)" />
+  <rect x="600" width="600" height="300" rx="22" fill="url(#purpleGlow)" />
+  <rect width="1200" height="300" rx="22" fill="url(#grid)" />
+  <rect x="32" y="32" width="1136" height="236" rx="17" stroke="#168A9E" stroke-opacity="0.34" />
+  <path d="M88 70V224C88 234.493 96.5066 243 107 243H168" stroke="#0BB7D1" stroke-opacity="0.62" stroke-width="2" />
+  <circle cx="88" cy="70" r="5" fill="#21C2D8" />
+  <path d="M1035 57H1097C1107.49 57 1116 65.5066 1116 76V228" stroke="#7147B8" stroke-opacity="0.76" stroke-width="2" />
+  <circle cx="1116" cy="228" r="5" fill="#8C55DD" />
+
+  <g text-anchor="middle" font-family="sans-serif">
+    <text x="600" y="128" fill="#F5F7FA" font-size="56" font-weight="700" letter-spacing="1">BERNARDO KRACZKOWSKI</text>
+    <text x="600" y="176" fill="#18C9E7" font-size="23" font-weight="700" letter-spacing="3">FRONT-END DEVELOPER</text>
+    <text x="600" y="217" fill="#97A9BD" font-size="18" letter-spacing="0.5">React • Next.js • TypeScript • Full Stack em construção</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="298" rx="21" stroke="#A6C6D2" stroke-opacity="0.12" />
+</svg>
