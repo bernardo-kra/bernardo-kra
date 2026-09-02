@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=900&size=26&pause=1000&color=8CF7AF&center=true&multiline=true&random=true&width=520&lines=Transformando+ideias+em+interfaces+que+funcionam" alt="Transformando ideias em interfaces que funcionam" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
   <img src="https://img.shields.io/badge/CLASS-FRONT--END_DEVELOPER-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Front-end Developer" />
   <img src="https://img.shields.io/badge/MAIN_QUEST-GUIA_VIRTUAL-10B981?style=for-the-badge&labelColor=0D1117" alt="Guia Virtual" />
