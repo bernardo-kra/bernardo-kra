@@ -4,12 +4,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=900&size=26&pause=1000&color=8CF7AF&center=true&multiline=true&random=true&width=520&lines=Transformando+ideias+em+interfaces+que+funcionam" alt="Transformando ideias em interfaces que funcionam" />
+    <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=900&size=26&pause=1000&color=8CF7AF&center=true&multiline=true&random=true&width=520&lines=Projetos+digitais%2C+interfaces+reais+e+código+em+evolução" alt="Projetos digitais, interfaces reais e código em evolução" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
   <img src="https://img.shields.io/badge/CLASS-FRONT--END_DEVELOPER-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Front-end Developer" />
   <img src="https://img.shields.io/badge/MAIN_QUEST-GUIA_VIRTUAL-10B981?style=for-the-badge&labelColor=0D1117" alt="Guia Virtual" />
 </p>
@@ -21,7 +20,7 @@ class: Front-end Developer
 specialization: React · Next.js · interfaces responsivas
 origin: Sertão, RS · Brasil
 main_quest: construir produtos Full Stack
-current_party: disponível para oportunidades e colaborações
+current_focus: projetos autorais, experiências digitais e aprendizado contínuo
 
 Transformo regras de negócio e problemas reais em interfaces rápidas, claras e fáceis de manter. Minha experiência reúne desenvolvimento Front-end, integrações, e-commerce internacional, QA e acompanhamento pós-go-live.
 
