@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Metal%2BMania&weight=900&size=26&pause=1000&color=8CF7AF&center=true&multiline=true&random=true&width=520&v=2&lines=Projetos%20digitais%2C%20interfaces%20reais%20e%20c%25C3%25B3digo%20em%20evolu%25C3%25A7%25C3%25A3o" alt="Projetos digitais, interfaces reais e código em evolução" />
+    <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&weight=900&size=24&pause=1000&color=8CF7AF&center=true&width=760&lines=Projetos%20digitais%20-%20interfaces%20reais%20-%20codigo%20em%20evolucao" alt="Projetos digitais - interfaces reais - codigo em evolucao" />
   </a>
 </p>
 
